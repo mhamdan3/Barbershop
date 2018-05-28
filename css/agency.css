@@ -29,6 +29,20 @@ h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+.feedback {
+  background-color : #fe4336;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  border-color: #fe4301;
+}
+
+#mybutton {
+  position: fixed;
+  bottom: -4px;
+  right: 10px;
+}
+
 section {
   padding: 100px 0;
 }
