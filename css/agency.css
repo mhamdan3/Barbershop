@@ -8,17 +8,21 @@ p {
 }
 
 a {
-  color: #fe4336;
+  color: white;
 }
 
 a:hover {
   color: #fe4301;
 }
 
+h5 {
+  color: white
+}
+
 .text-primary {
   color: #fe4336 !important;
 }
-
+ 
 h1,
 h2,
 h3,
@@ -166,8 +170,9 @@ img::-moz-selection {
 
 header.masthead {
   text-align: center;
-  color: white;
-  background-image: url("../img/header-bg.jpg");
+  color: #999999;
+  text-shadow: 2px 2px black;
+  background-image: url("../img/IMG_3121.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
